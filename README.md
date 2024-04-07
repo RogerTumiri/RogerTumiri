@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Roger Tumiri</h1>
-<h3 align="center">Estoy interesado en crear soluciones web innovadoras que mejoren las experiencias de usuario y resuelvan problemas del mundo real.</h3>
+<h3 align="center">Actualmente estoy aprendiendo nuevas técnicas en desarrollo web para mantenerme actualizado con las últimas tendencias y tecnologías.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
